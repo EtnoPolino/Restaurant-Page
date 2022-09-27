@@ -1,10 +1,3 @@
-import '@fortawesome/fontawesome-free/js/fontawesome.js';
-import '@fortawesome/fontawesome-free/js/solid.js';
-import '@fortawesome/fontawesome-free/js/regular.js';
-import '@fortawesome/fontawesome-free/js/brands.js';
-
-
-
 import cartItem1 from '/src/images/cart-item-1.png';
 import cartItem2 from '/src/images/cart-item-2.png';
 import cartItem3 from '/src/images/cart-item-3.png';

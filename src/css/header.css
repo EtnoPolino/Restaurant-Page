@@ -1,6 +1,5 @@
 .header{
-   /* background: var(--bg); */
-    background: white;
+    background: var(--bg);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -29,7 +28,6 @@
     padding-bottom: .5rem;
 }
 
-/* -------------HERE------------------------------------*/
 .header .icons div{
     color: #fff;
     cursor: pointer;
@@ -40,8 +38,6 @@
 .header .icons div:hover{
     color: var(--main-color);
 }
-
-/* ---------------------------------------------------*/
 
 #menu-btn{
     display: none;
